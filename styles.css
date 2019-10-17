@@ -56,7 +56,7 @@ ul li a:hover {
   display: flex;
   justify-content: center;
   align-content: center;
-  height: 40vh;
+  height: 60vh;
 }
 .images img {
   padding: 20px 70px;
@@ -69,7 +69,14 @@ h1 {
   margin: 0 auto;
   display: block;
 }
-#projects>a>img {
-margin: 0 auto;
-display: block;
+#projects > a > img {
+  margin: 0 auto;
+  display: block;
+}
+.para2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
 }
