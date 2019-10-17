@@ -4,7 +4,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-color: #0D0D0D;
+  background-color: #0d0d0d;
 }
 ul {
   float: right;
@@ -83,4 +83,21 @@ h3 {
 }
 #projects {
   background-color: grey;
+}
+table,
+th,
+td,
+tr {
+  padding: 20px;
+  border-collapse: collapse;
+  border: 2px solid black;
+  font-size: 30px;
+  margin: 0 auto;
+}
+footer{
+  width: 100%;
+  background-color:grey;
+  padding: 30px 0px;
+  text-align: center;
+  margin-top: 20px;
 }
