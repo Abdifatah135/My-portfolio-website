@@ -65,3 +65,11 @@ ul li a:hover {
 h1 {
   text-align: center;
 }
+#imagesp {
+  margin: 0 auto;
+  display: block;
+}
+#projects>a>img {
+margin: 0 auto;
+display: block;
+}
