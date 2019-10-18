@@ -24,5 +24,11 @@ Abdifatah Mohamed
  ## Project ScreenShot
  <img src="images/pic-57.jpg" height="300" width="300">
  - Screenshot of my portfolio.
-## Link
+
+##  Link
 - https://abdifatah135.github.io/My-portfolio-website/
+
+
+##  Licence
+- The project has no licence, free to use by anyone.
+- Copyright 2019.
