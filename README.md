@@ -22,6 +22,7 @@ Abdifatah Mohamed
 - Navigate to Portfolio.
 - Initialize git on terminal.
  ## Project ScreenShot
- <img src="images/pic-57.jpg" height="200" width="200">
- Screenshot of my portfolio.
- 
+ <img src="images/pic-57.jpg" height="300" width="300">
+ - Screenshot of my portfolio.
+## Link
+- https://abdifatah135.github.io/My-portfolio-website/
